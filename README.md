@@ -7,4 +7,6 @@
 
 ## Daily Assignments
 
-- [X] JAVA Day1 - Submitted on 24 June 26
+- [X] JAVA 22 JUNE 26 - Submitted on 24 June 26
+- [X] JAVA 23 JUNE 26 - Submitted on 28 June 26
+- [X] JAVA 24 JUNE 26 - Submitted on 28 June 26
