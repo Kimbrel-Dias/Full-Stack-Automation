@@ -6,6 +6,7 @@
 - [X] 13 JUNE Assignment - Submitted on 14 June 26 [REPOSITORY](https://github.com/Kimbrel-Dias/employee-management)
 - [X] Assignment Loops - Submitted on 29 June 26
 - [X] Assignment Arrays - Submitted on 05 July 26
+- [X] Assignment OOPS - Submitted on 13 July 26
 
 
 ## Daily Assignments
